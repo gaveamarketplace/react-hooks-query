@@ -1,5 +1,5 @@
 {
-  "name": "react-query",
+  "name": "react-hooks-query",
   "version": "1.0.0-semantic-release",
   "description": "Hooks for managing, caching and syncing asynchronous and remote data in React",
   "author": "tannerlinsley",
