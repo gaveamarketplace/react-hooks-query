@@ -1,0 +1,6 @@
+{
+  "internal": true,
+  "main": "../lib/gavea/index.js",
+  "module": "../es/gavea/index.js",
+  "types": "../types/gavea/index.d.ts"
+}
